@@ -9,7 +9,7 @@
   <h3> ....kara murat out ..... </h3>
   <h3> ....kara hasan out ..... </h3>
   <h3> ....enginbar ..... </h3>
-  <h3> ....kılçık çeken yunus..... </h3>
-  <h3> ....keşifci fikret ..... </h3>
+  <h3> ....kilcik ceken yunus..... </h3>
+  <h3> ....kesifci fikret ..... </h3>
 </body>
 </html>
