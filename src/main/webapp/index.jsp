@@ -8,8 +8,16 @@
   <h3> ....muzeyyen hanim ders anlatimi ile cok keyifli bir dersti ..... </h3>
   <h3> ....kara murat out ..... </h3>
   <h3> ....kara hasan out ..... </h3>
-  <h3> ....enginbar ..... </h3>
+  <h3> ********....engincan ....******** </h3>
   <h3> ....kilcik ceken yunus..... </h3>
   <h3> ....kesifci fikret ..... </h3>
+  <h3> ....mulakatci harun ..... </h3>
+  <h3> ....aws ci hilal hanim ..... </h3>
+  <h3> ....*********************************..... </h3>
+  <h3> ....*********************************..... </h3>
+  <h3> ....****DENIZ HOCAM GECMİS OLSUN ****....</h3>
+  <h3> ....*********************************..... </h3>
+  <h3> ....********EKİP SENİ SEVİYOR *******....</h3>
+  <h3> ....*********************************..... </h3>
 </body>
 </html>
